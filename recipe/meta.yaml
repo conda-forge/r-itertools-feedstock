@@ -42,6 +42,7 @@ about:
   summary: Various tools for creating iterators, many patterned after functions in the Python
     itertools module, and others patterned after functions in the 'snow' package.
   license_family: GPL2
+  license_file: '{{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-2'
 
 extra:
   recipe-maintainers:
