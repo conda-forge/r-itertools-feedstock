@@ -1,11 +1,11 @@
-About r-itertools
-=================
+About r-itertools-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-itertools-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=itertools
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-itertools-feedstock/blob/main/LICENSE.txt)
 
 Summary: Various tools for creating iterators, many patterned after functions in the Python itertools module, and others patterned after functions in the 'snow' package.
 
